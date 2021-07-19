@@ -5,4 +5,6 @@ public class GitCool {
 
     // we have added our github account
     // we make sure to click apply and ok
+
+    // another test commit
 }
