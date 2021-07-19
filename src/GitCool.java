@@ -7,4 +7,6 @@ public class GitCool {
     // we make sure to click apply and ok
 
     // another test commit
+    // create the link between local and remote
+    // push local commit to remote
 }
